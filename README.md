@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-**malik-azad/malik-azad** is a aspring web developer
+**malik-azad** I'm a programmer, writing code since 2018
