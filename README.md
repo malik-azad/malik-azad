@@ -1,8 +1,11 @@
 Hi My name is Malik Azad
 
 
-**malik-azad** I'm a programmer, writing code since 2018
+I've been learning to code for 4 years during and after college, started with HTML,CSS and then JavaScript. I have found a passion for FrontEnd development.
 
-Java JavaScript PHP Python HTML5 React CSS3 Bootstrap MySQL Figma MetaMask
-
+🌍  I'm based in Kashmir
+🖥️  See my portfolio at https://malik-azad.github.io/portfolio/
+✉️  You can contact me at malikazad.web@gmail.com
+🚀  I'm currently working on My Portfolio
+🧠  I'm learning a new framework ReactJS
 
