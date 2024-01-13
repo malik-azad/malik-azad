@@ -15,6 +15,7 @@ I've been learning to code for 4 years during and after college, started with HT
 
 ![githubimage](https://github.com/malik-azad/malik-azad/assets/113776072/2a22435a-9747-4a1c-adfe-c078cbf97576)
 
-![codingGif](https://github.com/malik-azad/malik-azad/assets/113776072/0276c933-91c3-4122-a743-acef98873405)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=malik-azad&theme=transparent)](https://git.io/streak-stats)
 
 
