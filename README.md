@@ -37,6 +37,3 @@
   
 
 
-
-https://github.com/malik-azad/malik-azad/assets/113776072/323cf837-195c-48b9-9167-2b729af721bd
-
