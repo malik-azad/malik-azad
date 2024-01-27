@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 🌍  I'm dedicated to honing my skills in the Full Stack Web Development while also exploring innovative design tools and techniques.                <br>
-🖥️  See my portfolio at https://malik-azad.github.io/portfolio/            <br>
+🖥️  See my portfolio at https://malikazad.netlify.app            <br>
 ✉️  You can contact me at malikazad.web@gmail.com            <br>
 🚀  I'm currently working on My Portfolio            <br>
 🧠  I'm learning a new framework ReactJS
