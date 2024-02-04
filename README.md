@@ -24,8 +24,6 @@
 
 ![githubimage](https://github.com/malik-azad/malik-azad/assets/113776072/95114bd6-4dfd-458b-a5b8-edeef9635a1a)
 
-### Thank you for visiting
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
