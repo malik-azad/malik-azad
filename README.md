@@ -23,16 +23,23 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=malik-azad&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=malik-azad&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-azad&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
 
 
 ![githubimage](https://github.com/malik-azad/malik-azad/assets/113776072/95114bd6-4dfd-458b-a5b8-edeef9635a1a)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=malik-azad&icon=0&color=11)](https://visitcount.itsvg.in)
+
+
 
   
 
