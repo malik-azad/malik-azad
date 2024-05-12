@@ -1,6 +1,6 @@
 ![welcome to my profile](https://github.com/malik-azad/malik-azad/assets/113776072/7660677f-249b-4ab3-807c-e950b66c400f)
 
-**Hi! ![wave hand](https://github.com/malik-azad/malik-azad/assets/113776072/6947f7df-588f-4505-9290-080ddf9e8ae7) My name is Malik Azad**  
+**Hi! My name is Malik Azad**  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Programmer;Front+End+Developer)](https://git.io/typing-svg)
 
