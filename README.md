@@ -9,7 +9,7 @@
 🖥️  See my portfolio at https://malikazad.netlify.app            <br>
 ✉️  You can contact me at malikazad.web@gmail.com            <br>
 🚀  I'm currently working on My Portfolio            <br>
-🧠  I'm learning a new framework ReactJS
+🧠  I'm learning a new framework ReactJS and Bootstrap 
 
 
 ## 🌐 Socials:
@@ -28,7 +28,7 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-azad&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
-# <i> Be the master of your field. </i>
+# <i> Be the master of your field.. </i>
  
 
 
