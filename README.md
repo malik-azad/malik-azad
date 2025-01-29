@@ -9,7 +9,7 @@
 🖥️  See my portfolio at https://malikazad.netlify.app            <br>
 ✉️  You can contact me at malikazad.web@gmail.com           <br>
 🚀  I'm currently working on Personal Portfolio Website           <br>
-🧠  I'm learning a new framework ReactJS and Bootstrap 
+🧠  I'm learning a cloud computing for now.
 
 
 ## 🌐 Socials:
