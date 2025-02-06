@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 🌍  I'm dedicated to honing my skills in the Full Stack Web Development while also exploring innovative design tools and techniques.                <br>
-🖥️  See my portfolio at https://malikazad.netlify.app            <br>
+🖥️  See my portfolio at https://malikazad.github.io           <br>
 ✉️  You can contact me at malikazad.web@gmail.com           <br>
 🚀  I'm currently working on Personal Portfolio Website           <br>
 🧠  I'm learning a cloud computing for now.
