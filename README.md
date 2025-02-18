@@ -12,14 +12,18 @@
 🧠  I'm learning a cloud computing for now.
 
 
+
 ## 🌐 Socials:
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
+<br>
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malikjubran_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malikazad) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/malik-azad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/malickxain56)
 
-# 💻 Tech Stack:
-###
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
-<br><br>
+# 💻 Tech Stack:
+
+
 
 ###
 
