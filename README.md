@@ -73,9 +73,9 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=malik-azad&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<p align="right">
+<p >
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=malik-azad&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-azad&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-azad&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark" align="right">
 </p>
 
  <h5><i> Be the master of your field.. </i> </h5> 
