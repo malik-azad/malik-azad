@@ -69,7 +69,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<p align="right">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=malik-azad&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
