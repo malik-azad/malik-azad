@@ -9,7 +9,7 @@
 🖥️  See my portfolio at https://malik-azad.github.io           <br>
 ✉️  You can contact me at malikazad.web@gmail.com           <br>
 🚀  I'm currently working on Wallpaper Collection WebApp           <br>
-🧠  I'm learning a cloud computing for now.
+🧠  I'm learning a Fjango Framework.
 
 
 
