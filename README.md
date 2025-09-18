@@ -9,7 +9,7 @@
 🖥️  See my portfolio at https://malik-azad.github.io           <br>
 ✉️  You can contact me at malikazad.web@gmail.com           <br>
 🚀  I'm currently working on Feedback System          <br>
-🧠  I'm learning a Fjango Framework.
+🧠  I'm learning a Django Framework.
 
 
 
