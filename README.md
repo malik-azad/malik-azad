@@ -82,7 +82,7 @@
 </p>
 <p></p>
 <br>
-<p><i>The quieter you become, the more you can hear. 🙂</i></p>
+<p>The quieter you become, the more you can hear. 🙂</p>
 <hr>
  
 
