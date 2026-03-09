@@ -1,6 +1,6 @@
 ![welcome to my profile](https://github.com/malik-azad/malik-azad/assets/113776072/7660677f-249b-4ab3-807c-e950b66c400f)
 
-**Hi! My name is Malik Azad**  
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Programmer;Front+End+Developer)](https://git.io/typing-svg)
 
@@ -81,7 +81,9 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-azad&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"  align="center">
 </p>
 <p></p>
-<br><hr>
+<br>
+<p><i>The quieter you become, the more you can hear. 🙂</i></p>
+<hr>
  
 
 
