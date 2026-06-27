@@ -271,7 +271,6 @@ class AzadMalik:
 
 <div align="center">
 
-<!-- After you set up the GitHub Actions workflow below, this image will animate: -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malik-azad/malik-azad/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malik-azad/malik-azad/output/github-contribution-grid-snake.svg" />
@@ -279,50 +278,6 @@ class AzadMalik:
 </picture>
 
 </div>
-
-<details>
-<summary>⚙️ <b>Click to activate Snake — One-time setup (2 min)</b></summary>
-
-<br/>
-
-**Step 1:** In your `malik-azad/malik-azad` repo, create this file:  
-📁 `.github/workflows/snake.yml`
-
-```yaml
-name: 🐍 Generate Snake
-
-on:
-  schedule:
-    - cron: "0 12 * * *"   # runs daily at noon UTC
-  workflow_dispatch:        # lets you trigger it manually too
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: malik-azad
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2:** Go to **Actions** tab → run the workflow manually once → done! 🎉
-
-</details>
 
 ---
 
@@ -357,12 +312,9 @@ jobs:
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-malik--azad.github.io-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://malik-azad.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malikazad)
-[![Gmail](https://img.shields.io/badge/Email-malikazad.web%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikazad.web@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@malikjubran__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/malikjubran_)
-[![X / Twitter](https://img.shields.io/badge/X-@malickxain56-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/malickxain56)
-[![Reddit](https://img.shields.io/badge/Reddit-u%2Fmalik--azad-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/malik-azad)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![X / Twitter](https://img.shields.io/badge/X-@malickxain56-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/malikencryption)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/cybermalik)
 
 </div>
 
