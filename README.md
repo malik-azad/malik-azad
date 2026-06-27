@@ -31,7 +31,7 @@
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────────┐
-│               >> SECURE TERMINAL — ACCESS GRANTED <<                │
+│                  >> SECURE TERMINAL — ACCESS GRANTED <<             │
 ├──────────────────┬──────────────────────────────────────────────────┤
 │  OPERATOR        │  Azad Malik                                      │
 │  TITLE           │  Cybersecurity Trainee → Future Red Teamer       │
@@ -71,9 +71,7 @@ class AzadMalik:
     def __init__(self):
         self.name       = "Azad Malik"
         self.role       = "Cybersecurity Professional"
-        self.education  = "MCA @ University of Kashmir (7.9 CGPA)"
-        self.location   = "New Delhi, India"
-        self.email      = "malikazad.web@gmail.com"
+        self.education  = "MCA @ University of Kashmir"        
         self.portfolio  = "malik-azad.github.io"
 
     def skills(self):
@@ -185,21 +183,21 @@ class AzadMalik:
 
 | Domain | Tools / Concepts | Proficiency |
 |:---|:---|:---:|
-| 🌐 Web Application Security | SQLi · XSS · CSRF · IDOR · SSRF · Burp Suite | `▓▓▓▓▓▓▓▓░░` Advanced |
-| 🔍 Recon & OSINT | Footprinting · Nmap · OSINT · theHarvester · Shodan | `▓▓▓▓▓▓▓░░░` Advanced |
-| 📡 Network Security | CCNA · Wireshark · Packet Analysis · Cisco PT | `▓▓▓▓▓▓▓░░░` Advanced |
-| 🧪 Vulnerability Assessment | Nessus · Metasploit · VAPT · CEH v13 Modules | `▓▓▓▓▓▓░░░░` Intermediate |
-| 🔐 Cryptography & Secure Dev | RSA · AES · E2E Encryption · Secure Sockets | `▓▓▓▓▓▓░░░░` Intermediate |
-| 🤖 AI-Integrated Development | Gemini API · Sentiment Analysis · Audio AI | `▓▓▓▓▓▓▓░░░` Advanced |
-| 💻 Full Stack Development | Django · Python · React · JS · MySQL · PHP | `▓▓▓▓▓▓▓▓░░` Advanced |
-| 🐧 Linux Administration | Kali · CentOS · Bash Scripting · CLI mastery | `▓▓▓▓▓▓▓░░░` Advanced |
+| 🌐 Web Application Security | SQLi · XSS · CSRF · IDOR · SSRF · Burp Suite |        `▓▓▓▓▓▓▓▓░░` Proficient |
+| 🔍 Recon & OSINT | Footprinting · Nmap · OSINT · theHarvester      |                `▓▓▓▓▓▓▓░░░` Advanced |
+| 📡 Network Security | CCNA · Wireshark · Packet Analysis · Cisco PT |               `▓▓▓▓▓▓▓░░░` Advanced |
+| 🧪 Vulnerability Assessment | Nessus · Metasploit · VAPT · CEH v13 Modules |        `▓▓▓▓▓▓░░░░` Intermediate |
+| 🔐 Cryptography & Secure Dev | RSA · AES · E2E Encryption · Secure Sockets |        `▓▓▓▓▓▓░░░░` Intermediate |
+| 🤖 AI-Integrated Development | Gemini API · Sentiment Analysis · Audio AI |         `▓▓▓▓▓▓▓░░░` Proficient |
+| 💻 Full Stack Development | Django · Python · React · JS · MySQL · PHP |            `▓▓▓▓▓▓▓▓░░` Intermediate |
+| 🐧 Linux Administration | Kali · CentOS · Bash Scripting · CLI   |                  `▓▓▓▓▓▓▓░░░` Proficient |
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                CERTIFICATIONS (HONEST)                   -->
+<!--                CERTIFICATIONS                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎓 `ls /certs/ && ls /achievements/`
@@ -218,15 +216,13 @@ class AzadMalik:
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🏆 Beyond Tech
 
-🏓 **Inter-University Table Tennis Champion** &nbsp;|&nbsp; 🏐 **Inter-University Volleyball Champion**  
-📋 **Organized Coding Quiz** — MCA Department &nbsp;|&nbsp; 🗣️ **College Tech Events & Webinars**  
-⌨️ **Typing Speed: 40+ WPM** &nbsp;|&nbsp; 🌍 **Languages: English · Hindi · Urdu · Arabic (basic)**
 
 </div>
+-->
 
 ---
 
@@ -257,14 +253,14 @@ class AzadMalik:
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  GITHUB TROPHIES                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ 
 
 ## 🏆 `cat /var/log/achievements.log`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=malik-azad&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
-
+-->
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
