@@ -10,7 +10,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,60:00ff41,100:000000&height=220&section=header&text=AZAD%20MALIK&fontSize=72&fontColor=00ff41&fontAlignY=40&desc=%5B%20CYBERSECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20PENETRATION%20TESTING%20%5D&descAlignY=62&descSize=15&descColor=39ff14&animation=twinkling&stroke=00ff41&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,60:00ff41,100:000000&height=220&section=header&text=MALIK%20AZAD&fontSize=72&fontColor=00ff41&fontAlignY=40&desc=%5B%20CYBERSECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20PENETRATION%20TESTING%20%5D&descAlignY=62&descSize=15&descColor=39ff14&animation=twinkling&stroke=00ff41&strokeWidth=1" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
