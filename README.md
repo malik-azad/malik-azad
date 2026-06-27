@@ -33,7 +33,7 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │                  >> SECURE TERMINAL — ACCESS GRANTED <<             │
 ├──────────────────┬──────────────────────────────────────────────────┤
-│  OPERATOR        │  Azad Malik                                      │
+│  OPERATOR        │  Malik Azad                                      │
 │  TITLE           │  Cybersecurity Trainee → Future Red Teamer       │
 │  EDUCATION       │  MCA — University of Kashmir                     │
 │  FOCUS           │  Web AppSec · Network Pentesting · VAPT          │
@@ -56,7 +56,7 @@
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      ABOUT ME                            -->
@@ -69,7 +69,7 @@
 ```python
 class AzadMalik:
     def __init__(self):
-        self.name       = "Azad Malik"
+        self.name       = "Malik Azad"
         self.role       = "Cybersecurity Professional"
         self.education  = "MCA @ University of Kashmir"        
         self.portfolio  = "malik-azad.github.io"
@@ -80,11 +80,11 @@ class AzadMalik:
             "tools"     : ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Nessus"],
             "dev"       : ["Python", "Django", "JavaScript", "React", "PHP"],
             "platforms" : ["Kali Linux", "TryHackMe", "CentOS", "Cisco Packet Tracer"],
-            "learning"  : ["Advanced Exploit Dev", "Reverse Engineering", "Red Teaming"]
+            "learning"  : ["Advanced Exploit Dev", "RCE", "AD Enum", "Red Teaming"]
         }
 
-    def philosophy(self):
-        return "The quieter you become, the more you can hear 🔇"
+    def reminder(self):
+        return "The quieter you become, the more you can hear "
 ```
 
 <br clear="right"/>
@@ -98,27 +98,36 @@ class AzadMalik:
 **🎯 CTF Player** — TryHackMe Labs · Capture The Flag  
 **🧠 Always Building** — Security Tools · Open Source · Side Projects  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    TRYHACKME CARD                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🚀 `ls -la /projects/`
+## TryHackMe
+
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cybermalik.png" alt="TryHackMe Badge" style="border-radius:8px;"/>
+</div>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  PINNED REPOS — ZERO SETUP                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## Featured Repositories
 
 <div align="center">
 
-| # | Project | Stack | Highlight |
-|:---:|:---|:---|:---|
-| 01 | **[🤖 AI Student Feedback Portal](https://malik-azad.github.io/sfs)** | Django · Python · MySQL · TailwindCSS · Gemini AI | Role-based auth · Audio transcription · Sentiment analysis · Excel export |
-| 02 | **[🔒 Secure Chat Socket](https://github.com/malik-azad/Chat_App)** | Python · RSA Encryption · Client-Server | End-to-end encrypted messaging · Digital signatures |
-| 03 | **[📚 EduWeb Platform](https://malik-azad.github.io/EduWeb)** | HTML · CSS · JavaScript | Educational hub with CS resources · YouTube integration |
+[![Secure Chat](https://github-readme-stats.vercel.app/api/pin/?username=malik-azad&repo=Chat_App&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&icon_color=00ff41&border_radius=10)](https://github.com/malik-azad/Chat_App)
+[![Student Feedback](https://github-readme-stats.vercel.app/api/pin/?username=malik-azad&repo=sfs&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&icon_color=00ff41&border_radius=10)](https://github.com/malik-azad/sfs)
 
 </div>
 
-> 💡 *All projects built with security-first architecture — because good code is secure code.*
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    SKILL ARSENAL                         -->
@@ -171,7 +180,7 @@ class AzadMalik:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  SKILL MATRIX TABLE                      -->
@@ -194,7 +203,7 @@ class AzadMalik:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                CERTIFICATIONS                    -->
@@ -209,22 +218,14 @@ class AzadMalik:
 | 🌐 Web Development Bootcamp | Udemy | ✅ Completed |
 | 🐙 GitHub Foundations | GitHub | ✅ Certified |
 | ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Certified |
-| 🖥️ Diploma in Computer Applications | — | ✅ Completed |
-| 🔐 CEH v13 Modules (In Training) | DUCAT / EC-Council Curriculum | 🔄 In Progress |
-| 🌐 CCNA Fundamentals (In Training) | DUCAT / Cisco Curriculum | 🔄 In Progress |
+| 🔐 CEH v13 Modules (In Training) |  EC-Council Curriculum | 🔄 In Progress |
+| 🌐 CCNA Fundamentals (In Training) | Cisco Curriculum | 🔄 In Progress |
+| 🌐 CC Certification | ISC2 | 🔄 In Progress |
 | 🏅 Credly Badge | Credly | [🔗 View](https://www.credly.com/badges/b0088bba-526b-42da-8320-b5cb033376b9) |
 
 </div>
 
-<!-- <div align="center">
-
-### 🏆 Beyond Tech
-
-
-</div>
--->
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                           -->
@@ -249,19 +250,29 @@ class AzadMalik:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=malik-azad&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&radius=8&area_color=00ff4120" width="100%"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  GITHUB TROPHIES                         -->
-<!-- ═══════════════════════════════════════════════════════════ 
 
-## 🏆 `cat /var/log/achievements.log`
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  PROFILE SUMMARY CARD — ZERO SETUP                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## At a Glance
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malik-azad&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malik-azad&theme=github_dark" width="100%"/>
 </div>
--->
----
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malik-azad&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malik-azad&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malik-azad&theme=github_dark&utcOffset=5.5" width="32%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  SNAKE ANIMATION                         -->
@@ -279,7 +290,7 @@ class AzadMalik:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  LEARNING ROADMAP                        -->
@@ -332,23 +343,6 @@ class AzadMalik:
 
 <br/>
 
-<div align="center">
-
-```
-"The quieter you become, the more you can hear." 🔇
-        — Ram Dass (a hacker's favorite truth)
-
-"Security is not a product, but a process." 🔐
-        — Bruce Schneier
-
-"To hack is to explore the edges of the possible." 💻
-        — Steven Levy
-```
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   SUPPORT                                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -368,6 +362,13 @@ class AzadMalik:
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      FOOTER                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!-- <div align="center">
+
+### 🏆 Beyond Tech
+
+
+</div>
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff41&height=130&section=footer&text=&animation=fadeIn" width="100%"/>
