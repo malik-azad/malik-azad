@@ -52,14 +52,12 @@ $ whoami
 - 🔐 **Penetration Tester** — Web, Network & Mobile
 - 🌐 **Web Application Security** — OWASP Top 10 Expert
 - 🕵️ **OSINT Investigator** — Digital Footprint Analysis
-- 🧬 **Malware Analyst** — Static & Dynamic Analysis
 - 🛡️ **Security Consultant** — Vulnerability Assessment
 - 🔴 **Red Team Operator** — Adversarial Simulation
 - 🐛 **Bug Bounty Hunter** — HackerOne | Bugcrowd
 - 🎯 **CTF Player** — Capture The Flag Enthusiast
-- 📡 **Digital Forensics** — DFIR Practitioner
 - 💻 **Secure Code Developer** — Full Stack + Security
-- 📖 **Currently Learning:** Advanced Exploit Development & Reverse Engineering
+- 📖 **Currently Learning:** WAPT
 - 🌍 **Portfolio:** [malik-azad.github.io](https://malik-azad.github.io)
 - 📬 **Contact:** malikazad.web@gmail.com
 
@@ -80,10 +78,10 @@ $ whoami
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### 🛡️ Defensive Security
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+<!-- ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-E30000?style=for-the-badge&logo=snort&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)  -->
 
 ### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -93,7 +91,6 @@ $ whoami
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -118,11 +115,11 @@ $ whoami
 
 | Domain | Skills | Level |
 |:---|:---|:---:|
-| 🌐 Web Application Pentesting | SQLi, XSS, CSRF, SSRF, XXE, IDOR, RCE | ████████░░ `Expert` |
-| 🔍 OSINT & Reconnaissance | Maltego, Shodan, theHarvester, Recon-ng | ███████░░░ `Advanced` |
+| 🌐 Web Application Pentesting | SQLi, XSS, CSRF, SSRF, XXE, IDOR, RCE | ██████░░░░ `Proficient` |
+| 🔍 OSINT & Reconnaissance | Maltego, Shodan, theHarvester, Recon-ng | ██████░░░░ `Proficient` |
 | 🧬 Malware Analysis | IDA Pro, Ghidra, Cuckoo Sandbox | ██████░░░░ `Proficient` |
-| 📡 Network Security | Packet Analysis, MITM, ARP Spoofing | ████████░░ `Expert` |
-| 🔐 Cryptography | AES, RSA, Hash Cracking, PKI | ███████░░░ `Advanced` |
+| 📡 Network Security | Packet Analysis, MITM, ARP Spoofing | ██████░░░░ `Proficient` |
+| 🔐 Cryptography | AES, RSA, Hash Cracking, PKI | ██████░░░░ `Proficient` |
 | 🛡️ Vulnerability Research | CVE Analysis, PoC Development | ███████░░░ `Advanced` |
 | 🎯 Social Engineering | Phishing Simulations, Pretexting | ██████░░░░ `Proficient` |
 | 🖥️ Full Stack Development | Python, JS, React, Django, PHP | ████████░░ `Expert` |
@@ -166,11 +163,11 @@ $ whoami
 
 | Certification | Status |
 |:---|:---:|
-| 🔐 Certified Ethical Hacker (CEH) | ✅ Certified |
+<!--| 🔐 Certified Ethical Hacker (CEH) | ✅ Certified |
 | 🛡️ CompTIA Security+ | ✅ Certified |
 | 🌐 OWASP Web Security Testing | ✅ Completed |
 | 🖥️ eJPT – eLearnSecurity Junior Penetration Tester | ✅ Certified |
-| 🔍 Google Cybersecurity Certificate | ✅ Certified |
+| 🔍 Google Cybersecurity Certificate | ✅ Certified | -->
 | 🏅 Credly Badge | [View Badge](https://www.credly.com/badges/b0088bba-526b-42da-8320-b5cb033376b9) |
 
 </div>
