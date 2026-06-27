@@ -31,7 +31,7 @@
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────────┐
-│                   >> SECURE TERMINAL — ACCESS GRANTED <<            │
+│               >> SECURE TERMINAL — ACCESS GRANTED <<                │
 ├──────────────────┬──────────────────────────────────────────────────┤
 │  OPERATOR        │  Azad Malik                                      │
 │  TITLE           │  Cybersecurity Trainee → Future Red Teamer       │
