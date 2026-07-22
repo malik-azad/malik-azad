@@ -34,10 +34,10 @@
 │                  >> SECURE TERMINAL — ACCESS GRANTED <<             │
 ├──────────────────┬──────────────────────────────────────────────────┤
 │  OPERATOR        │  Malik Azad                                      │
-│  TITLE           │  Cybersecurity Trainee → Future Red Teamer       │
+│  TITLE           │  Penetration Tester - Application Security       │
 │  EDUCATION       │  MCA — University of Kashmir                     │
 │  FOCUS           │  Web AppSec · Network Pentesting · VAPT          │
-│  PLATFORM        │  Kali Linux · TryHackMe · CEH v13                │
+│  PLATFORM        │  Linux · TryHackMe · CEH . Portswigger           │
 │  STATUS          │  🟢 ONLINE — Always Learning, Always Curious     │
 └──────────────────┴──────────────────────────────────────────────────┘
 ```
