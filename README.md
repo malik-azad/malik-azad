@@ -215,12 +215,12 @@ class AzadMalik:
 
 | 📜 Certification / Course | Issuer | Status |
 |:---|:---|:---:|
-| 🌐 Web Development Bootcamp | Udemy | ✅ Completed |
-| 🐙 GitHub Foundations | GitHub | ✅ Certified |
-| ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Certified |
-| 🔐 CEH v13 Modules (In Training) |  EC-Council Curriculum | 🔄 In Progress |
-| 🌐 CCNA Fundamentals (In Training) | Cisco Curriculum | 🔄 In Progress |
-| 🌐 CC Certification | ISC2 | 🔄 In Progress |
+| 🌐 Web Development Bootcamp | Udemy           | ✅ Completed |
+| 🐙 GitHub Foundations | GitHub                | ✅ Certified |
+| ☁️ AWS Cloud Practitioner                     | ✅ Certified |
+| 🔐 CEH v13     |  EC-Council Curriculum       | 🔄 In Progress |
+| 🌐 CCNA Fundamentals  | Cisco Curriculum      | 🔄 In Progress |
+| 🌐 CC Certification | ISC2                    | 🔄 In Progress |
 | 🏅 Credly Badge | Credly | [🔗 View](https://www.credly.com/badges/b0088bba-526b-42da-8320-b5cb033376b9) |
 
 </div>
@@ -299,16 +299,17 @@ class AzadMalik:
 ## 🗺️ `cat roadmap.txt`
 
 ```
-2024 ──► BCA Graduate · Started Web Dev · Built EduWeb
+2024 ──► BCA Graduate · Started Web Dev · Freelance
 2025 ──► MCA @ UoK · Secure Chat App · AI Feedback Portal
 2026 ──► Cybersecurity Intern · CEH v13 · CCNA
-         Kali Linux · Metasploit · Burp Suite · TryHackMe Labs
+         Kali Linux · Metasploit · Burp Suite · TryHackMe  and Portswigger Labs
          [NOW] ◄─────────────────────────────────────────────
 2026+ ──► CC - ISC2 / Fundamentals of Cyber Security Certification
           Bug Bounty Hunting (HackerOne / Bugcrowd)
-          Exploit Development & Reverse Engineering
+          Application Penetration Testing (Burp Suite)
+          Owasp Top 10
           OSCP → Red Team Operations
-          Build: Recon Tool · Custom Exploits · Security Blog
+          Build: Recon Tool · Security Blog
 ```
 
 ---
