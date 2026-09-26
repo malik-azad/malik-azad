@@ -124,6 +124,7 @@ class AzadMalik:
 
 [![Secure Chat](https://github-readme-stats.vercel.app/api/pin/?username=malik-azad&repo=Chat_App&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&icon_color=00ff41&border_radius=10)](https://github.com/malik-azad/Chat_App)
 [![Student Feedback](https://github-readme-stats.vercel.app/api/pin/?username=malik-azad&repo=sfs&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&icon_color=00ff41&border_radius=10)](https://github.com/malik-azad/sfs)
+[CTF- Writeups](https://github.com/malik-azad/ctf-writeups)
 
 </div>
 
